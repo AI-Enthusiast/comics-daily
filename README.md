@@ -1,35 +1,35 @@
 # Comics Daily 📰🎨
 A collection of daily web comics from various sources.
 ## Latest Comics
-*Last updated: 2025-12-04 22:06:43*
+*Last updated: 2025-12-04 22:37:28*
 ---
 ### [Extra Ordinary Comics](https://www.exocomics.com/)
 **Date:** 2025-12-04
-![Extra Ordinary Comics](src/exocomics-daily/data/2025-12-04/8-Oct-25_769.jpg)
+![Extra Ordinary Comics](data/exocomics_2025-12-04.jpg)
 ---
 ### [Cyanide & Happiness](https://explosm.net/)
 **Date:** 2025-12-03
-![Cyanide & Happiness](src/explosm-daily/data/2025-12-03/2025-12-03_Kris Wilson.png)
+![Cyanide & Happiness](data/explosm_2025-12-03.png)
 ---
 ### [Poorly Drawn Lines](https://poorlydrawnlines.com/)
 **Date:** 2025-12-04
-![Poorly Drawn Lines](src/poorlydrawnlines-daily/data/2025-12-04/understand-me.png)
+![Poorly Drawn Lines](data/poorlydrawnlines_2025-12-04.png)
 ---
 ### [Dinosaur Comics](https://qwantz.com/)
 **Date:** 2025-12-04
-![Dinosaur Comics](src/qwantz-daily/data/2025-12-04/comic2-5109.png)
+![Dinosaur Comics](data/qwantz_2025-12-04.png)
 ---
 ### [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
 **Date:** 2025-12-04
-![Saturday Morning Breakfast Cereal](src/smbc-daily/data/2025-12-04/On the Edge.png)
+![Saturday Morning Breakfast Cereal](data/smbc_2025-12-04.png)
 ---
 ### [XKCD](https://xkcd.com/)
 **Date:** 2025-12-04
-![XKCD](src/xkcd-daily/data/2025-12-04/Inverted Catenaries.png)
+![XKCD](data/xkcd_2025-12-04.png)
 ---
 
 ## About
-This repository aggregates daily comics from multiple web comic sources. Each comic is automatically fetched and stored in its respective repository.
+This repository aggregates daily comics from multiple web comic sources. Each comic is automatically fetched and stored in the central data directory.
 
 ## Comic Sources
 - [Extra Ordinary Comics](https://www.exocomics.com/) - [Repository](https://github.com/AI-Enthusiast/exocomics-daily)
@@ -43,7 +43,8 @@ This repository aggregates daily comics from multiple web comic sources. Each co
 ```
 comics-daily/
 ├── bin/           # Scripts and utilities
-├── src/           # Comic repositories
+├── data/          # Latest comics (centralized)
+├── src/           # Comic scraper repositories
 │   ├── explosm-daily/
 │   ├── xkcd-daily/
 │   ├── exocomics-daily/
@@ -61,7 +62,7 @@ To clone all comic repositories:
 
 To update this README with the latest comics:
 ```bash
-python3 src/update_readme.md.py
+python3 src/update_readme.py
 ```
 
 ---

@@ -9,5 +9,4 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 echo "Updating README with latest comics..."
-python3 "$PROJECT_ROOT/src/update_readme.md.py"
-
+python3 "$PROJECT_ROOT/src/update_readme.py"
