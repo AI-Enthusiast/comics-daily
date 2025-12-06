@@ -21,6 +21,9 @@ REPOS=(
     "smbc-daily"
     "poorlydrawnlines-daily"
     "qwantz-daily"
+    "thefarside-daily"
+    "extrafabulous-daily"
+    "safely_endangererd-daily"
 )
 
 echo "Starting repository cloning process..."
