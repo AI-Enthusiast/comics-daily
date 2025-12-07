@@ -1,7 +1,7 @@
 # Comics Daily 📰🎨
 A collection of daily web comics from various sources.
 ## Latest Comics
-*Last updated: 2025-12-07 22:25:56*
+*Last updated: 2025-12-07 22:40:17*
 ---
 ### [Extra Ordinary Comics](https://www.exocomics.com/)
 **Date:** 2025-12-07
@@ -11,6 +11,10 @@ A collection of daily web comics from various sources.
 **Date:** 2025-12-07
 ![Cyanide & Happiness](data/explosm_2025-12-07.png)
 ---
+### [Extrafabulous](#)
+**Date:** 2025-12-05
+![Extrafabulous](data/extrafabulous_2025-12-05.png)
+---
 ### [Poorly Drawn Lines](https://poorlydrawnlines.com/)
 **Date:** 2025-12-07
 ![Poorly Drawn Lines](data/poorlydrawnlines_2025-12-07.png)
@@ -19,9 +23,17 @@ A collection of daily web comics from various sources.
 **Date:** 2025-12-07
 ![Dinosaur Comics](data/qwantz_2025-12-07.png)
 ---
+### [Safely Endangererd](#)
+**Date:** 2025-12-05
+![Safely Endangererd](data/safely_endangererd_2025-12-05.png)
+---
 ### [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
 **Date:** 2025-12-04
 ![Saturday Morning Breakfast Cereal](data/smbc_2025-12-04.png)
+---
+### [Thefarside](#)
+**Date:** 2025-12-07
+![Thefarside](data/thefarside_2025-12-07.jpg)
 ---
 ### [XKCD](https://xkcd.com/)
 **Date:** 2025-12-07
@@ -34,9 +46,12 @@ This repository aggregates daily comics from multiple web comic sources. Each co
 ## Comic Sources
 - [Extra Ordinary Comics](https://www.exocomics.com/) - [Repository](https://github.com/AI-Enthusiast/exocomics-daily)
 - [Cyanide & Happiness](https://explosm.net/) - [Repository](https://github.com/AI-Enthusiast/explosm-daily)
+- [Extrafabulous](#) - [Repository](https://github.com/AI-Enthusiast/extrafabulous-daily)
 - [Poorly Drawn Lines](https://poorlydrawnlines.com/) - [Repository](https://github.com/AI-Enthusiast/poorlydrawnlines-daily)
 - [Dinosaur Comics](https://qwantz.com/) - [Repository](https://github.com/AI-Enthusiast/qwantz-daily)
+- [Safely Endangererd](#) - [Repository](https://github.com/AI-Enthusiast/safely_endangererd-daily)
 - [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) - [Repository](https://github.com/AI-Enthusiast/smbc-daily)
+- [Thefarside](#) - [Repository](https://github.com/AI-Enthusiast/thefarside-daily)
 - [XKCD](https://xkcd.com/) - [Repository](https://github.com/AI-Enthusiast/xkcd-daily)
 
 ## Structure
