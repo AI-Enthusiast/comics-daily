@@ -11,14 +11,5 @@ RUN pip install -r requirements.txt
 # Copy the rest of the application code
 COPY . .
 
-# Display all scraper.py files and their contents during build
-RUN find /docker_testcontainer/src -name "scraper.py" -exec sh -c 'echo "=== {} ===" && cat {}' \;
-
-# Run all scraper.py files to ensure they work correctly
-RUN find /docker_testcontainer/src -name "scraper.py" -exec python {} \;
-
-# Run the update_readme script to generate/update the README
-RUN python /docker_testcontainer/src/update_readme.py
-
-# Command to run the application
-CMD ["python"]
+# Command to run all scrapers and then update the README
+CMD ["sh", "-c", "echo 'Running all scraper.py files...' && find /docker_testcontainer/src -name 'scraper.py' -exec python {} \\; && echo 'All scrapers completed. Updating README...' && python /docker_testcontainer/src/update_readme.py && echo 'README updated successfully!'"]
