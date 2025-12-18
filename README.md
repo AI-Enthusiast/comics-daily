@@ -1,7 +1,7 @@
 # Comics Daily 📰🎨
 A collection of daily web comics from various sources.
 ## Latest Comics
-*Last updated: 2025-12-18 19:00:32*
+*Last updated: 2025-12-18 22:25:16*
 ---
 ### [Extra Ordinary Comics](https://www.exocomics.com/)
 **Date:** 2025-12-18
@@ -28,8 +28,8 @@ A collection of daily web comics from various sources.
 ![Safely Endangererd](data/safely_endangererd_2025-12-17.png)
 ---
 ### [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
-**Date:** 2025-12-04
-![Saturday Morning Breakfast Cereal](data/smbc_2025-12-04.png)
+**Date:** 2025-12-18
+![Saturday Morning Breakfast Cereal](data/smbc_2025-12-18.png)
 ---
 ### [Thefarside](#)
 **Date:** 2025-12-18
