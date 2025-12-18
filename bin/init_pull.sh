@@ -39,11 +39,18 @@ cd "$SRC_DIR" || exit 1
 # Clone each repository
 for repo in "${REPOS[@]}"; do
     echo ""
-    echo "Cloning $repo..."
+    echo "Processing $repo..."
 
     # Check if directory already exists
     if [ -d "$repo" ]; then
-        echo "  → Directory '$repo' already exists. Skipping..."
+        echo "  → Directory '$repo' already exists. Pulling latest changes..."
+        cd "$repo" || continue
+        if git pull; then
+            echo "  ✓ Successfully updated $repo"
+        else
+            echo "  ✗ Failed to update $repo"
+        fi
+        cd "$SRC_DIR" || exit 1
     else
         # Clone the repository
         if git clone "${GITHUB_ORG}/${repo}.git"; then
@@ -60,4 +67,3 @@ echo "Cloning process completed!"
 echo ""
 echo "Repositories location: $SRC_DIR"
 ls -1 "$SRC_DIR"
-
