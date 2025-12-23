@@ -1,43 +1,43 @@
 # Comics Daily 📰🎨
 A collection of daily web comics from various sources.
 ## Latest Comics
-*Last updated: 2025-12-22 19:00:34*
+*Last updated: 2025-12-23 19:00:31*
 ---
 ### [Extra Ordinary Comics](https://www.exocomics.com/)
-**Date:** 2025-12-22
-![Extra Ordinary Comics](data/exocomics_2025-12-22.jpg)
+**Date:** 2025-12-23
+![Extra Ordinary Comics](data/exocomics_2025-12-23.jpg)
 ---
 ### [Cyanide & Happiness](https://explosm.net/)
-**Date:** 2025-12-22
-![Cyanide & Happiness](data/explosm_2025-12-22.png)
+**Date:** 2025-12-23
+![Cyanide & Happiness](data/explosm_2025-12-23.png)
 ---
 ### [Extrafabulous](#)
 **Date:** 2025-12-05
 ![Extrafabulous](data/extrafabulous_2025-12-05.png)
 ---
 ### [Poorly Drawn Lines](https://poorlydrawnlines.com/)
-**Date:** 2025-12-22
-![Poorly Drawn Lines](data/poorlydrawnlines_2025-12-22.png)
+**Date:** 2025-12-23
+![Poorly Drawn Lines](data/poorlydrawnlines_2025-12-23.png)
 ---
 ### [Dinosaur Comics](https://qwantz.com/)
-**Date:** 2025-12-22
-![Dinosaur Comics](data/qwantz_2025-12-22.png)
+**Date:** 2025-12-23
+![Dinosaur Comics](data/qwantz_2025-12-23.png)
 ---
 ### [Safely Endangererd](#)
 **Date:** 2025-12-22
 ![Safely Endangererd](data/safely_endangererd_2025-12-22.png)
 ---
 ### [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/)
-**Date:** 2025-12-22
-![Saturday Morning Breakfast Cereal](data/smbc_2025-12-22.png)
+**Date:** 2025-12-23
+![Saturday Morning Breakfast Cereal](data/smbc_2025-12-23.png)
 ---
 ### [Thefarside](#)
-**Date:** 2025-12-22
-![Thefarside](data/thefarside_2025-12-22.jpg)
+**Date:** 2025-12-23
+![Thefarside](data/thefarside_2025-12-23.jpg)
 ---
 ### [XKCD](https://xkcd.com/)
-**Date:** 2025-12-20
-![XKCD](data/xkcd_2025-12-20.png)
+**Date:** 2025-12-23
+![XKCD](data/xkcd_2025-12-23.png)
 ---
 
 ## About
