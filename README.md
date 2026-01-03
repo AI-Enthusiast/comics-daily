@@ -1,7 +1,7 @@
 # Comics Daily 📰🎨
 A collection of daily web comics from various sources.
 ## Latest Comics
-*Last updated: 2026-01-03 19:02:44*
+*Last updated: 2026-01-03 22:21:49*
 ---
 ### [Extra Ordinary Comics](https://www.exocomics.com/)
 **Date:** 2026-01-03
@@ -18,6 +18,10 @@ A collection of daily web comics from various sources.
 ### [Poorly Drawn Lines](https://poorlydrawnlines.com/)
 **Date:** 2026-01-03
 ![Poorly Drawn Lines](data/poorlydrawnlines_2026-01-03.png)
+---
+### [Dinosaur Comics](https://qwantz.com/)
+**Date:** 2026-01-03
+![Dinosaur Comics](data/qwantz_2026-01-03.png)
 ---
 ### [Safely Endangererd](#)
 **Date:** 2026-01-02
@@ -44,6 +48,7 @@ This repository aggregates daily comics from multiple web comic sources. Each co
 - [Cyanide & Happiness](https://explosm.net/) - [Repository](https://github.com/AI-Enthusiast/explosm-daily)
 - [Extrafabulous](#) - [Repository](https://github.com/AI-Enthusiast/extrafabulous-daily)
 - [Poorly Drawn Lines](https://poorlydrawnlines.com/) - [Repository](https://github.com/AI-Enthusiast/poorlydrawnlines-daily)
+- [Dinosaur Comics](https://qwantz.com/) - [Repository](https://github.com/AI-Enthusiast/qwantz-daily)
 - [Safely Endangererd](#) - [Repository](https://github.com/AI-Enthusiast/safely_endangererd-daily)
 - [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com/) - [Repository](https://github.com/AI-Enthusiast/smbc-daily)
 - [Thefarside](#) - [Repository](https://github.com/AI-Enthusiast/thefarside-daily)
